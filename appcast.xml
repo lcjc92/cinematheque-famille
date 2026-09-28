@@ -3,13 +3,13 @@
   <channel>
     <title>Cinémathèque</title>
     <item>
-      <title>Cinémathèque 1.69</title>
-      <pubDate>Mon, 28 Sep 2026 17:46:56 +0000</pubDate>
-      <sparkle:version>69</sparkle:version>
-      <sparkle:shortVersionString>1.69</sparkle:shortVersionString>
+      <title>Cinémathèque 1.72</title>
+      <pubDate>Mon, 28 Sep 2026 19:58:35 +0000</pubDate>
+      <sparkle:version>72</sparkle:version>
+      <sparkle:shortVersionString>1.72</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Nouvelles animations : la fiche d'un film naît de son affiche, affiches qui suivent la souris, boutons Retour et Accueil, glisser d'une fiche à l'autre.</p>]]></description>
-      <enclosure url="https://github.com/lcjc92/cinematheque-famille/releases/download/v1.69/Cinematheque.zip" type="application/octet-stream" sparkle:edSignature="JkF4rvrQge2TZX6Wgg6XNBQ5YwhxeAemPo6hj+ROmOLfmQc5n24sRodqqoQCGW3m9ZUZpIHUvzWtwc+I1p1qDA==" length="33258173" />
+      <description><![CDATA[<p>Bibliothèque sur le réseau : les films peuvent être lus depuis le Mac de Laurent (Réglages, Source Réseau).</p>]]></description>
+      <enclosure url="https://github.com/lcjc92/cinematheque-famille/releases/download/v1.72/Cinematheque.zip" type="application/octet-stream" sparkle:edSignature="lzqofVepc2j8G0DEIDynEtLsw6BeK4idJ3Tb5Ak4P0Rm4aacRY9ZC0M8NXIoZhPBgtC3xFCTsjwOn7jZht0tDA==" length="33355117" />
     </item>
   </channel>
 </rss>
