@@ -3,13 +3,13 @@
   <channel>
     <title>Cinémathèque</title>
     <item>
-      <title>Cinémathèque 1.68</title>
-      <pubDate>Mon, 28 Sep 2026 15:11:03 +0000</pubDate>
-      <sparkle:version>68</sparkle:version>
-      <sparkle:shortVersionString>1.68</sparkle:shortVersionString>
+      <title>Cinémathèque 1.69</title>
+      <pubDate>Mon, 28 Sep 2026 17:46:56 +0000</pubDate>
+      <sparkle:version>69</sparkle:version>
+      <sparkle:shortVersionString>1.69</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Glisser de côté dans une fiche passe bien d'un film à l'autre.</p>]]></description>
-      <enclosure url="https://github.com/lcjc92/cinematheque-famille/releases/download/v1.68/Cinematheque.zip" type="application/octet-stream" sparkle:edSignature="Se7GcIVIbHtP+Hg1Gi6BjG/RGsmqE3P3Z3Drr2mrV70tHqjdS+ZwHNRFWsfvMxHz+aNWq3R98Jnil0qhYV61AA==" length="33170233" />
+      <description><![CDATA[<p>Nouvelles animations : la fiche d'un film naît de son affiche, affiches qui suivent la souris, boutons Retour et Accueil, glisser d'une fiche à l'autre.</p>]]></description>
+      <enclosure url="https://github.com/lcjc92/cinematheque-famille/releases/download/v1.69/Cinematheque.zip" type="application/octet-stream" sparkle:edSignature="JkF4rvrQge2TZX6Wgg6XNBQ5YwhxeAemPo6hj+ROmOLfmQc5n24sRodqqoQCGW3m9ZUZpIHUvzWtwc+I1p1qDA==" length="33258173" />
     </item>
   </channel>
 </rss>
