@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Cinémathèque</title>
+    <item>
+      <title>Cinémathèque 1.66</title>
+      <pubDate>Mon, 28 Sep 2026 14:10:18 +0000</pubDate>
+      <sparkle:version>66</sparkle:version>
+      <sparkle:shortVersionString>1.66</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/lcjc92/cinematheque-famille/releases/download/v1.66/Cinematheque.zip" type="application/octet-stream" sparkle:edSignature="da06BYUAM2oidtUVAjgVDI51cMn612M2Vp76TXUYYMJhanvGMFEg+uPTCso7ON81r32nLNCNVikpQMVQKP1pDw==" length="33169777" />
+    </item>
+  </channel>
+</rss>
