@@ -3,13 +3,13 @@
   <channel>
     <title>Cinémathèque</title>
     <item>
-      <title>Cinémathèque 1.76</title>
-      <pubDate>Tue, 29 Sep 2026 09:31:21 +0000</pubDate>
-      <sparkle:version>76</sparkle:version>
-      <sparkle:shortVersionString>1.76</sparkle:shortVersionString>
+      <title>Cinémathèque 1.77</title>
+      <pubDate>Tue, 29 Sep 2026 10:33:07 +0000</pubDate>
+      <sparkle:version>77</sparkle:version>
+      <sparkle:shortVersionString>1.77</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Musique des films (après 2 s sur une affiche ou à l'ouverture d'une fiche, réglable) ; corrections du partage.</p>]]></description>
-      <enclosure url="https://github.com/lcjc92/cinematheque-famille/releases/download/v1.76/Cinematheque.zip" type="application/octet-stream" sparkle:edSignature="R1H4rONz6yo0xmtTt9yFHM4kSh5Q4GmTaRdIXO0VScwcqIzBDz5ejBknOpqSY79moXDyYm0Pib+Pmkkqw+1+Cw==" length="33390968" />
+      <description><![CDATA[<p>Présentation Minimaliste du mur (Réglages > Affichage), façon Kaleidescape.</p>]]></description>
+      <enclosure url="https://github.com/lcjc92/cinematheque-famille/releases/download/v1.77/Cinematheque.zip" type="application/octet-stream" sparkle:edSignature="x+kX1j9WzAt11lUWZWWIsXTubCWCjrKwj7rIULE1adzcuzOL7TvLNU9OA+nuXD1fRf6RRr1+05IOlWemGronCg==" length="33442596" />
     </item>
   </channel>
 </rss>
