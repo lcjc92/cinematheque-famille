@@ -3,13 +3,13 @@
   <channel>
     <title>Kino</title>
     <item>
-      <title>Kino 1.115</title>
-      <pubDate>Wed, 30 Sep 2026 15:48:56 +0000</pubDate>
-      <sparkle:version>115</sparkle:version>
-      <sparkle:shortVersionString>1.115</sparkle:shortVersionString>
+      <title>Kino 1.120</title>
+      <pubDate>Wed, 30 Sep 2026 18:56:31 +0000</pubDate>
+      <sparkle:version>120</sparkle:version>
+      <sparkle:shortVersionString>1.120</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Extraction plus sûre : fichier vérifié, DVD protégés passés par MakeMKV.</p>]]></description>
-      <enclosure url="https://github.com/lcjc92/cinematheque-famille/releases/download/v1.115/Cinematheque.zip" type="application/octet-stream" sparkle:edSignature="wGnQgPfGlpzqEWqXk0PauGjsvXn1FXtoNZ56rSVMRrOiGtvDpx2eIDQS0su+vrAQL7U4DBr/c2zOH+mV8UHMAw==" length="31720572" />
+      <description><![CDATA[<p>Identification des films plus sûre, mode sauvetage amélioré.</p>]]></description>
+      <enclosure url="https://github.com/lcjc92/cinematheque-famille/releases/download/v1.120/Cinematheque.zip" type="application/octet-stream" sparkle:edSignature="6vWhcIUyhYDJ0EeK45uZgw9x/FWHoUEVUQhWOJOAswALSHTV5alXzpBB2N11ZJRkBSigPe2TmTc0F8T/341cBQ==" length="31903943" />
     </item>
   </channel>
 </rss>
