@@ -3,13 +3,13 @@
   <channel>
     <title>Kino</title>
     <item>
-      <title>Kino 1.112</title>
-      <pubDate>Wed, 30 Sep 2026 14:21:42 +0000</pubDate>
-      <sparkle:version>112</sparkle:version>
-      <sparkle:shortVersionString>1.112</sparkle:shortVersionString>
+      <title>Kino 1.115</title>
+      <pubDate>Wed, 30 Sep 2026 15:48:56 +0000</pubDate>
+      <sparkle:version>115</sparkle:version>
+      <sparkle:shortVersionString>1.115</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>L'app s'appelle désormais Kino.</p>]]></description>
-      <enclosure url="https://github.com/lcjc92/cinematheque-famille/releases/download/v1.112/Cinematheque.zip" type="application/octet-stream" sparkle:edSignature="dAVeqwKzEZhROPo6CVD5eDxwpHIlGsbFJX5sBMEIgg6LHlePmQPAxfoXsC6HCTItbjoav0j0TIcF+lIpx3RhBw==" length="31723309" />
+      <description><![CDATA[<p>Extraction plus sûre : fichier vérifié, DVD protégés passés par MakeMKV.</p>]]></description>
+      <enclosure url="https://github.com/lcjc92/cinematheque-famille/releases/download/v1.115/Cinematheque.zip" type="application/octet-stream" sparkle:edSignature="wGnQgPfGlpzqEWqXk0PauGjsvXn1FXtoNZ56rSVMRrOiGtvDpx2eIDQS0su+vrAQL7U4DBr/c2zOH+mV8UHMAw==" length="31720572" />
     </item>
   </channel>
 </rss>
