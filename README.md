@@ -1,12 +1,13 @@
-# Cinémathèque
+# Kino
 
-Pour regarder les films de la Cinémathèque sur un Mac (puce Apple, macOS 27 ou plus récent).
+Pour regarder les films de la bibliothèque Kino sur un Mac (puce Apple, macOS 27 ou plus récent).
 
 ## Installer
 
 1. Télécharger [Cinematheque.zip](https://github.com/lcjc92/cinematheque-famille/releases/latest/download/Cinematheque.zip).
-2. Ouvrir le fichier téléchargé, puis glisser **Cinémathèque** dans le dossier **Applications**.
-3. Brancher le disque des films, ouvrir l'app, puis choisir le dossier « Cinémathèque » de ce disque.
+2. Ouvrir le fichier téléchargé, puis glisser l'app (**Cinémathèque**, affichée « Kino ») dans le dossier **Applications**.
+3. Brancher le disque des films, ouvrir l'app, puis choisir le dossier « Cinémathèque » de ce disque — ou une
+   bibliothèque partagée sur le réseau de la maison.
 
 L'app se met ensuite à jour toute seule.
 
