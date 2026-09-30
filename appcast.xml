@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>Cinémathèque</title>
+    <title>Kino</title>
     <item>
-      <title>Cinémathèque 1.108</title>
-      <pubDate>Wed, 30 Sep 2026 09:19:51 +0000</pubDate>
-      <sparkle:version>108</sparkle:version>
-      <sparkle:shortVersionString>1.108</sparkle:shortVersionString>
+      <title>Kino 1.111</title>
+      <pubDate>Wed, 30 Sep 2026 13:26:45 +0000</pubDate>
+      <sparkle:version>111</sparkle:version>
+      <sparkle:shortVersionString>1.111</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Nouvelle identité (icône), mode sauvetage des disques abîmés côté Mac.</p>]]></description>
-      <enclosure url="https://github.com/lcjc92/cinematheque-famille/releases/download/v1.108/Cinematheque.zip" type="application/octet-stream" sparkle:edSignature="ROdQVmw+IE6qJOL1YMf4cTCfx0xMuMEaj0PFPyLNfkFssBUjzw+U/RsQpSPAgb4POjg9kuLtwj7qYQ9zsTN9Cg==" length="32795009" />
+      <description><![CDATA[<p>Nouveau nom et nouvelle icône : Kino.</p>]]></description>
+      <enclosure url="https://github.com/lcjc92/cinematheque-famille/releases/download/v1.111/Cinematheque.zip" type="application/octet-stream" sparkle:edSignature="HuoIOYxMkE7/kQsVEdfPdO/PGryGjeJZo1pX/jI/+EgpZGW9wSArhoWjUH5VonCKpDVhZi2pSBIA6gCTmPOBCQ==" length="31729758" />
     </item>
   </channel>
 </rss>
