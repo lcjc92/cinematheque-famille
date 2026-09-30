@@ -3,13 +3,13 @@
   <channel>
     <title>Cinémathèque</title>
     <item>
-      <title>Cinémathèque 1.105</title>
-      <pubDate>Wed, 30 Sep 2026 08:18:12 +0000</pubDate>
-      <sparkle:version>105</sparkle:version>
-      <sparkle:shortVersionString>1.105</sparkle:shortVersionString>
+      <title>Cinémathèque 1.108</title>
+      <pubDate>Wed, 30 Sep 2026 09:19:51 +0000</pubDate>
+      <sparkle:version>108</sparkle:version>
+      <sparkle:shortVersionString>1.108</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Musique des films : la bande originale (Apple Music) ; rail et recherche sur Apple TV.</p>]]></description>
-      <enclosure url="https://github.com/lcjc92/cinematheque-famille/releases/download/v1.105/Cinematheque.zip" type="application/octet-stream" sparkle:edSignature="BpzD4Stnti9d/iP0PacSW19jTumvTlMy0qxojS/e1e7tjQcDaEYcov5ugGCW6gwhB2amvPlVtRjVUul9clDLAw==" length="33608672" />
+      <description><![CDATA[<p>Nouvelle identité (icône), mode sauvetage des disques abîmés côté Mac.</p>]]></description>
+      <enclosure url="https://github.com/lcjc92/cinematheque-famille/releases/download/v1.108/Cinematheque.zip" type="application/octet-stream" sparkle:edSignature="ROdQVmw+IE6qJOL1YMf4cTCfx0xMuMEaj0PFPyLNfkFssBUjzw+U/RsQpSPAgb4POjg9kuLtwj7qYQ9zsTN9Cg==" length="32795009" />
     </item>
   </channel>
 </rss>
