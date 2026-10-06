@@ -3,13 +3,13 @@
   <channel>
     <title>Kino</title>
     <item>
-      <title>Kino 1.124</title>
-      <pubDate>Fri, 02 Oct 2026 14:51:15 +0000</pubDate>
-      <sparkle:version>124</sparkle:version>
-      <sparkle:shortVersionString>1.124</sparkle:shortVersionString>
+      <title>Kino 1.133</title>
+      <pubDate>Tue, 06 Oct 2026 17:07:21 +0000</pubDate>
+      <sparkle:version>133</sparkle:version>
+      <sparkle:shortVersionString>1.133</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Corrections et améliorations.</p>]]></description>
-      <enclosure url="https://github.com/lcjc92/cinematheque-famille/releases/download/v1.124/Cinematheque.zip" type="application/octet-stream" sparkle:edSignature="LZKkjx8625est/3Tg4CuEA6UOGoYxrbFTBfJId6YqicLsQ7S7KDJ0PgMmfmX8+E6nFdoLUpoDDMjOmI0znWyCQ==" length="32006371" />
+      <description><![CDATA[<p>Les films incomplets ne sont plus affichés dans la bibliothèque. Corrections diverses.</p>]]></description>
+      <enclosure url="https://github.com/lcjc92/cinematheque-famille/releases/download/v1.133/Cinematheque.zip" type="application/octet-stream" sparkle:edSignature="/eV7yBKCQhG78GuYka/2Gph7Ypjnicq2/W1xe+Q4IXuP4mvRHLE/u8rUhSrTScEQBVHGMg09MmMbAoA1zzi3Bg==" length="32167229" />
     </item>
   </channel>
 </rss>
