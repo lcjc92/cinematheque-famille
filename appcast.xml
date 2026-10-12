@@ -3,13 +3,13 @@
   <channel>
     <title>Kino</title>
     <item>
-      <title>Kino 1.133</title>
-      <pubDate>Tue, 06 Oct 2026 17:07:21 +0000</pubDate>
-      <sparkle:version>133</sparkle:version>
-      <sparkle:shortVersionString>1.133</sparkle:shortVersionString>
+      <title>Kino 1.149</title>
+      <pubDate>Mon, 12 Oct 2026 15:04:14 +0000</pubDate>
+      <sparkle:version>149</sparkle:version>
+      <sparkle:shortVersionString>1.149</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Les films incomplets ne sont plus affichés dans la bibliothèque. Corrections diverses.</p>]]></description>
-      <enclosure url="https://github.com/lcjc92/cinematheque-famille/releases/download/v1.133/Cinematheque.zip" type="application/octet-stream" sparkle:edSignature="/eV7yBKCQhG78GuYka/2Gph7Ypjnicq2/W1xe+Q4IXuP4mvRHLE/u8rUhSrTScEQBVHGMg09MmMbAoA1zzi3Bg==" length="32167229" />
+      <description><![CDATA[<p>Nouvelle section Musique : pages d'album aux couleurs de la pochette, interprètes, lecture en plein écran avec aléatoire et répétition, pochettes en haute définition. Import de musique (Fichier › Importer de la musique…). Récupération des disques abîmés intégrée.</p>]]></description>
+      <enclosure url="https://github.com/lcjc92/cinematheque-famille/releases/download/v1.149/Cinematheque.zip" type="application/octet-stream" sparkle:edSignature="vI7/QaBZmWzJF9w46ukQl/VhAH1uVrzgC46qDEhZ80aizopLsYXHcLhKdP83fU0bK5OaPJrf6LTMOHxESQSWBQ==" length="32732224" />
     </item>
   </channel>
 </rss>
